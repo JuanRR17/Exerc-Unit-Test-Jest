@@ -1,0 +1,23 @@
+{
+  "name": "exercise-unit-test-with-jest",
+  "version": "1.0.0",
+  "description": "``` Importante: 💻  Este ejercicio es interactivo! Sigue las instrucciones. ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanRR17/Exerc-Unit-Test-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanRR17/Exerc-Unit-Test-Jest/issues"
+  },
+  "homepage": "https://github.com/JuanRR17/Exerc-Unit-Test-Jest#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
